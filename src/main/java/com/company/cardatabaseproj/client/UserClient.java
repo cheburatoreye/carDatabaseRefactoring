@@ -24,6 +24,8 @@ public class UserClient {
         return  userFasad.getAll();
     }
 
+
+
     public static void main(String[] args) throws IOException, ClassNotFoundException {
        UserClient userClint=new UserClient();
         userClint.clientmenu.menuStart();

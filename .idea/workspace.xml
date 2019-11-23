@@ -19,6 +19,7 @@
       <change afterPath="$PROJECT_DIR$/../Chabanenko/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Chabanenko/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Wildcard/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jacsonproblem/lombok/annotations.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../java5/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../testingGenerics2/pom.xml" afterDir="false" />
@@ -26,6 +27,37 @@
       <change beforePath="$PROJECT_DIR$/../Country8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Country8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Country8/src" beforeDir="false" afterPath="$PROJECT_DIR$/../Country8/src" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Stringchecker/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stringchecker/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/builder/CarConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/builder/CarConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/client/UserClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/client/UserClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/crud/CrudDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/crud/CrudDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/crud/CrudDatabaseMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/crud/CrudDatabaseMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/database/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacadeMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacadeMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/ClientMenuMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/ClientMenuMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarServiceMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarServiceMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/client/UserClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/client/UserClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/crud/CrudDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/crud/CrudDatabase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/crud/CrudDatabaseMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/crud/CrudDatabaseMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/database/Car$CarBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/database/Car$CarBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/database/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/database/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/database/Database$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/database/Database$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/database/Database$Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/database/Database$Helper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/database/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/database/Database.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/facade/UserFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/facade/UserFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/facade/UserFacadeMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/facade/UserFacadeMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/menu/ClientMenuMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/menu/ClientMenuMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/service/CarService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/service/CarService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/service/CarServiceMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/cardatabaseproj/service/CarServiceMethods.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testingDate/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testingDate/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../textChecker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../textChecker/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../textChecker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../textChecker/.idea/workspace.xml" afterDir="false" />
@@ -44,59 +76,92 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuMethods.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/database/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuRedacInstantCar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuRedacting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuSearchNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarServiceMethods.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="98" column="40" lean-forward="true" selection-start-line="98" selection-start-column="40" selection-end-line="98" selection-end-column="40" />
+            <state relative-caret-position="155">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#redactNumber#0;class#CarServiceMethods#0" />
-                <element signature="method#redactMark#0;class#CarServiceMethods#0" />
+                <element signature="method#Database#0;class#Database#0" />
+                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+                <element signature="e#876#939#1" />
+                <element signature="method#delete#0;class#Database#0" />
+                <element signature="method#read#0;class#Database#0" />
+                <element signature="method#databaseInit#0;class#Database#0" />
+                <element signature="method#databaseSave#0;class#Database#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacadeMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-339">
+              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getFromUser#0;class#UserFacadeMethods#0" />
+                <element signature="method#save#0;class#UserFacadeMethods#0" />
+                <element signature="method#DatabaseInit#0;class#UserFacadeMethods#0" />
+                <element signature="method#databaseSave#0;class#UserFacadeMethods#0" />
+                <element signature="method#searchByYear#0;class#UserFacadeMethods#0" />
+                <element signature="method#searchByMileage#0;class#UserFacadeMethods#0" />
+                <element signature="method#searchByPrice#0;class#UserFacadeMethods#0" />
+                <element signature="method#searchByMarkModel#0;class#UserFacadeMethods#0" />
+                <element signature="method#deleteByValue#0;class#UserFacadeMethods#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/ClientMenuMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="168" column="45" selection-start-line="168" selection-start-column="45" selection-end-line="168" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1548#6710#1" />
+                <element signature="e#1936#2917#1" />
+                <element signature="e#3135#3575#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacade.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarServiceMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="53" column="13" lean-forward="true" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="method#redactModel#0;class#CarServiceMethods#0" />
                 <element signature="method#redactMileage#0;class#CarServiceMethods#0" />
                 <element signature="method#redactYear#0;class#CarServiceMethods#0" />
@@ -108,41 +173,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuStart.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/builder/CarConstructor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="408">
+              <caret line="125" column="50" selection-start-line="125" selection-start-column="50" selection-end-line="125" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#buildCar#0;class#CarConstructor#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuSubSearch.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/enums/DataTypeEnum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+            <state relative-caret-position="136">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuState.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/crud/CrudDatabaseMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="357">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -157,7 +217,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -167,12 +227,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/builder/Builder.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/builder/CarBuilder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/client/UserClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/crud/CrudDatabase.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/database/Database.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/crud/CrudDatabaseMethods.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacade.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuState.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuSubSearch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuStart.java" />
@@ -183,13 +237,23 @@
         <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuMethodsImp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuAddingCars.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/ClientMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/builder/CarConstructor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarServiceMethods.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/ClientMenuMethods.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacadeMethods.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuDeleteInstantCar.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuDeleting.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/database/Car.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/company/cardatabaseproj/Enum/Enum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/client/UserClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/Enum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/enums/DataType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/crud/CrudDatabaseMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/crud/CrudDatabase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/ClientMenuMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/database/Database.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacadeMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarServiceMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/enums/DataTypeEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/builder/CarConstructor.java" />
       </list>
     </option>
   </component>
@@ -227,21 +291,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/dictionaries/caa1.xml" />
-        <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-657" />
-    <option name="y" value="29" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -299,15 +353,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cardatabaseproj" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cardatabaseproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cardatabaseproj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cardatabaseproj" type="462c0819:PsiDirectoryNode" />
               <item name="crud" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -326,16 +371,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cardatabaseproj" type="462c0819:PsiDirectoryNode" />
-              <item name="facade" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cardatabaseproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cardatabaseproj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cardatabaseproj" type="462c0819:PsiDirectoryNode" />
-              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cardatabaseproj" type="b2602c69:ProjectViewProjectNode" />
@@ -346,6 +382,12 @@
               <item name="cardatabaseproj" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cardatabaseproj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cardatabaseproj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -354,6 +396,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -361,6 +404,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.cardatabaseproj.Enum" />
+      <recent name="com.company.cardatabaseproj.database" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\caa1\IdeaProjects\cardatabaseproj\src\main\java\com\company\cardatabaseproj" />
     </key>
@@ -414,7 +461,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25945538" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2881997" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -423,7 +470,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5695581" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7692308" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46317512" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,7 +478,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32827735" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32569557" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -442,7 +489,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18283582" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2881997" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -450,16 +497,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5124594" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7692308" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46317512" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32827735" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32569557" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -475,15 +522,27 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarServiceMethods.java</url>
-          <line>64</line>
+          <line>66</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/database/Database.java</url>
-          <line>168</line>
+          <line>175</line>
           <properties />
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacadeMethods.java</url>
+          <line>167</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/database/Database.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -493,20 +552,8 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/erf.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/dfvgb.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/efrgt.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/database/Size.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/builder/Builder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/database/Size.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/builder/Builder.java" />
     <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -518,161 +565,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/builder/CarBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuMethodsImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/size.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/builder/CarConstructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="190" column="21" lean-forward="true" selection-start-line="190" selection-start-column="21" selection-end-line="190" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/client/UserClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/crud/CrudDatabase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/crud/CrudDatabaseMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1190#1191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/database/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-202">
-          <caret column="45" selection-start-column="45" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/database/Database.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#insert#0;class#Database#0" />
-            <element signature="method#Database#0;class#Database#0" />
-            <element signature="class#Helper#0;class#Database#0" />
-            <element signature="method#update#0;class#Database#0" />
-            <element signature="method#delete#0;class#Database#0" />
-            <element signature="method#read#0;class#Database#0" />
-            <element signature="method#databaseInit#0;class#Database#0" />
-            <element signature="method#databaseSave#0;class#Database#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacadeMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="192" column="13" selection-start-line="192" selection-start-column="13" selection-end-line="192" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#getFromUser#0;class#UserFacadeMethods#0" />
-            <element signature="e#2064#2065#0" expanded="true" />
-            <element signature="method#redactCar#0;class#UserFacadeMethods#0" />
-            <element signature="method#searchByYear#0;class#UserFacadeMethods#0" />
-            <element signature="method#searchByMileage#0;class#UserFacadeMethods#0" />
-            <element signature="method#searchByPrice#0;class#UserFacadeMethods#0" />
-            <element signature="method#searchByMarkModel#0;class#UserFacadeMethods#0" />
-            <element signature="method#searchByMark#0;class#UserFacadeMethods#0" />
-            <element signature="method#deleteByValue#0;class#UserFacadeMethods#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/builder/CarBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuMethodsImp.java" />
+    <entry file="file://$PROJECT_DIR$/size.txt" />
+    <entry file="file://$PROJECT_DIR$/1.json" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/ClientMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/ClientMenuMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="153" column="23" selection-start-line="153" selection-start-column="23" selection-end-line="153" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1083#1263#1" />
-            <element signature="e#1439#6596#1" />
-            <element signature="e#6772#7028#1" />
-            <element signature="e#7204#8440#1" />
-            <element signature="e#8618#9277#1" />
-            <element signature="e#9452#9636#1" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -716,7 +616,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuRedacInstantCar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
+        <state relative-caret-position="442">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
@@ -724,7 +624,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuRedacting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -735,6 +635,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/4.json" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuSearchNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -745,7 +646,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuStart.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -759,34 +660,180 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/MenuState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarService.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="425">
+          <caret line="28" selection-start-line="28" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.10.1/jackson-core-2.10.1-sources.jar!/com/fasterxml/jackson/core/type/TypeReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/database/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarServiceMethods.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/company/cardatabaseproj/Enum/Enum.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/enum/sdfbg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/enums/Enum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="98" column="40" lean-forward="true" selection-start-line="98" selection-start-column="40" selection-end-line="98" selection-end-column="40" />
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/crud/CrudDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#redactNumber#0;class#CarServiceMethods#0" />
-            <element signature="method#redactMark#0;class#CarServiceMethods#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/client/UserClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/database/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Database#0;class#Database#0" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#876#939#1" />
+            <element signature="method#delete#0;class#Database#0" />
+            <element signature="method#read#0;class#Database#0" />
+            <element signature="method#databaseInit#0;class#Database#0" />
+            <element signature="method#databaseSave#0;class#Database#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/facade/UserFacadeMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-339">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getFromUser#0;class#UserFacadeMethods#0" />
+            <element signature="method#save#0;class#UserFacadeMethods#0" />
+            <element signature="method#DatabaseInit#0;class#UserFacadeMethods#0" />
+            <element signature="method#databaseSave#0;class#UserFacadeMethods#0" />
+            <element signature="method#searchByYear#0;class#UserFacadeMethods#0" />
+            <element signature="method#searchByMileage#0;class#UserFacadeMethods#0" />
+            <element signature="method#searchByPrice#0;class#UserFacadeMethods#0" />
+            <element signature="method#searchByMarkModel#0;class#UserFacadeMethods#0" />
+            <element signature="method#deleteByValue#0;class#UserFacadeMethods#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/menu/ClientMenuMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="168" column="45" selection-start-line="168" selection-start-column="45" selection-end-line="168" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1548#6710#1" />
+            <element signature="e#1936#2917#1" />
+            <element signature="e#3135#3575#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/crud/CrudDatabaseMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/enums/DataTypeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/service/CarServiceMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="53" column="13" lean-forward="true" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
             <element signature="method#redactModel#0;class#CarServiceMethods#0" />
             <element signature="method#redactMileage#0;class#CarServiceMethods#0" />
             <element signature="method#redactYear#0;class#CarServiceMethods#0" />
             <element signature="method#redactColor#0;class#CarServiceMethods#0" />
             <element signature="method#redactBody#0;class#CarServiceMethods#0" />
             <element signature="method#redactPrice#0;class#CarServiceMethods#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/cardatabaseproj/builder/CarConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="125" column="50" selection-start-line="125" selection-start-column="50" selection-end-line="125" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#buildCar#0;class#CarConstructor#0" />
           </folding>
         </state>
       </provider>

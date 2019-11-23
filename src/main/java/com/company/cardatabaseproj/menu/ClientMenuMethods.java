@@ -1,6 +1,8 @@
 package com.company.cardatabaseproj.menu;
 
 import com.company.cardatabaseproj.database.Car;
+import com.company.cardatabaseproj.database.Database;
+import com.company.cardatabaseproj.enums.DataTypeEnum;
 import com.company.cardatabaseproj.facade.UserFacade;
 import com.company.cardatabaseproj.facade.UserFacadeMethods;
 
@@ -59,7 +61,7 @@ public class ClientMenuMethods implements ClientMenu {
                                 else {
                                     System.out.println( "Enter VIN for search or type 0 to go back .");
                                     if (!vin.equals("0")){
-                                        System.out.println(userFasad.select(vin,"empty",true,"any"));
+                                        System.out.println(userFasad.read(vin,"empty",true, DataTypeEnum.any));
                                     }
                                 }
                                 if (search==0){
@@ -75,7 +77,7 @@ public class ClientMenuMethods implements ClientMenu {
                             System.out.println( "Enter car number for search or type 0 to go back .");
                             number=sc.next();
                             if (!number.equals("0")){
-                                System.out.println(userFasad.select(number,"empty",true,"any"));
+                                System.out.println(userFasad.read(number,"empty",true, DataTypeEnum.any));
                             }
                             search=1;
                             break;
@@ -83,7 +85,7 @@ public class ClientMenuMethods implements ClientMenu {
                         //----------------------------------------------------------------------------------------------
                         // Menu search by MARK and MODEL sub menu search
                         case 3:{
-                            for (Object car : userFasad.searchByMarkModel()) {
+                            for (Car car : userFasad.searchByMarkModel()) {
                                 System.out.println(car);
                             }
                             search=1;
@@ -92,7 +94,7 @@ public class ClientMenuMethods implements ClientMenu {
                         //----------------------------------------------------------------------------------------------
                         // Menu search by YEAR sub menu search
                         case 4:{
-                            for (Object car : userFasad.searchByYear()) {
+                            for (Car car : userFasad.searchByYear()) {
                                 System.out.println(car);
                             }
                             search=1;
@@ -101,7 +103,7 @@ public class ClientMenuMethods implements ClientMenu {
                         //----------------------------------------------------------------------------------------------
                         // Menu search by MILEAGE sub menu search
                         case 5:{
-                            for (Object car : userFasad.searchByMileage()) {
+                            for (Car car : userFasad.searchByMileage()) {
                                 System.out.println(car);
                             }
                             search=1;
@@ -110,7 +112,7 @@ public class ClientMenuMethods implements ClientMenu {
                         //----------------------------------------------------------------------------------------------
                         // Menu search by PRICE sub menu search
                         case 6: {
-                            for (Object car : userFasad.searchByPrice()) {
+                            for (Car car : userFasad.searchByPrice()) {
                                 System.out.println(car);
                             }
                             search = 1;
@@ -129,7 +131,7 @@ public class ClientMenuMethods implements ClientMenu {
                         //----------------------------------------------------------------------------------------------
                         // Menu search by MARK sub menu search
                         case 8:{
-                            for (Object car : userFasad.searchByMark()) {
+                            for (Car car : userFasad.searchByMark()) {
                                 System.out.println(car);
                             }
                             search=1;

@@ -1,5 +1,7 @@
 package com.company.cardatabaseproj.facade;
 import com.company.cardatabaseproj.database.Car;
+import com.company.cardatabaseproj.database.Database;
+import com.company.cardatabaseproj.enums.DataTypeEnum;
 import com.company.cardatabaseproj.service.CarService;
 import com.company.cardatabaseproj.service.CarServiceMethods;
 
@@ -56,10 +58,10 @@ public class UserFacadeMethods implements UserFacade {
     }
 
     @Override
-    public List save() {
+    public List<Car> save() {
             Car car=carService.create();
-            carService.read(car.getVin(),"empty",true,"empty");
-        return carService.read(car.getVin(),"empty",true,"empty");
+            carService.read(car.getVin(),"empty",true, DataTypeEnum.empty);
+        return carService.read(car.getVin(),"empty",true,DataTypeEnum.empty);
     }
 
     @Override
@@ -68,7 +70,7 @@ public class UserFacadeMethods implements UserFacade {
     }
 
     @Override
-    public List select(String valuefirst, String valuesecond, boolean string,String typeofdata) {
+    public List<Car> read(String valuefirst, String valuesecond, boolean string, DataTypeEnum typeofdata) {
         return carService.read(valuefirst,valuesecond,string,typeofdata);
     }
 
@@ -124,7 +126,7 @@ public class UserFacadeMethods implements UserFacade {
     }
 
     @Override
-    public List searchByYear() {
+    public List<Car> searchByYear() {
         String yearstart;
         String yearstop;
         System.out.println( "Enter car year start searching than type end year or type 0 to go back .");
@@ -138,12 +140,12 @@ public class UserFacadeMethods implements UserFacade {
             return new ArrayList();
         }
         else {
-           return carService.read(yearstart,yearstop,false,"year");
+           return carService.read(yearstart,yearstop,false, DataTypeEnum.year);
         }
     }
 
     @Override
-    public List searchByMileage() {
+    public List<Car> searchByMileage() {
         String mileagestart;
         String mileagestop;
         System.out.println( "Enter car mileage start searching than type end mileage or type 0 to go back .");
@@ -157,12 +159,12 @@ public class UserFacadeMethods implements UserFacade {
             return new ArrayList();
         }
         else {
-           return carService.read(mileagestart,mileagestop,false,"mileage");
+           return carService.read(mileagestart,mileagestop,false, DataTypeEnum.mileage);
         }
     }
 
     @Override
-    public List searchByPrice() {
+    public List<Car> searchByPrice() {
         String pricestart;
         String pricestop;
         System.out.println("Enter car price start searching than type end price or type 0 to go back .");
@@ -175,27 +177,27 @@ public class UserFacadeMethods implements UserFacade {
             System.out.println("First price less than second, try again");
             return  new ArrayList();
         } else {
-            return  carService.read(pricestart, pricestop, false, "price");
+            return  carService.read(pricestart, pricestop, false, DataTypeEnum.price);
         }
     }
 
     @Override
-    public List searchByMarkModel() {
+    public List<Car> searchByMarkModel() {
         String mark;
         String model;
         System.out.println( "Enter car mark than type model or type 0 to go back .");
         mark=getFromUser("strings");
         System.out.println("Now type model or type 0 to go back: ");
         model=getFromUser("strings");
-        return carService.read(mark,model,true,"markmodel");
+        return carService.read(mark,model,true, DataTypeEnum.markmodel);
     }
 
     @Override
-    public List searchByMark() {
+    public List<Car> searchByMark() {
         String mark;
         System.out.println( "Enter car mark than type model or type 0 to go back .");
         mark=getFromUser("strings");
-       return carService.read(mark,"empty",true,"any");
+       return carService.read(mark,"empty",true, DataTypeEnum.any);
     }
 
     @Override
@@ -215,43 +217,43 @@ public class UserFacadeMethods implements UserFacade {
             case"1":{
                 System.out.println("Enter start vin:");
                 vin=getFromUser("strings");
-               return carService.delete(vin,"empty",true,"any");
+               return carService.delete(vin,"empty",true, DataTypeEnum.any);
             }
             case"2":{
                 System.out.println("Enter number:");
                 number=getFromUser("strings");
-               return carService.delete(number,"empty",true,"any");
+               return carService.delete(number,"empty",true, DataTypeEnum.any);
             }
             case"3":{
                 System.out.println("Enter mark:");
                 mark=getFromUser("strings");
                 System.out.println("Enter model:");
                 model=getFromUser("strings");
-              return   carService.delete(mark,model,true,"markmodel");
+              return   carService.delete(mark,model,true, DataTypeEnum.markmodel);
             }
             case"4":{
                 System.out.println("Enter start mileage:");
                 mileagestart=getFromUser("digits");
                 System.out.println("Enter end mileage:");
                 mileagestop=getFromUser("digits");
-               return carService.delete(mileagestart,mileagestop,false,"mileage");
+               return carService.delete(mileagestart,mileagestop,false, DataTypeEnum.mileage);
             }
             case"5":{
                 System.out.println("Enter start year:");
                 yearstart=getFromUser("digits");
                 System.out.println("Enter end year:");
                 yearstop=getFromUser("digits");
-               return carService.delete(yearstart,yearstop,false,"year");
+               return carService.delete(yearstart,yearstop,false, DataTypeEnum.year);
             }
             case"6":{
                 System.out.println("Enter start price:");
                 pricestart=getFromUser("digits");
                 System.out.println("Enter end price:");
                 pricestop=getFromUser("digits");
-               return carService.delete(pricestart,pricestop,false,"price");
+               return carService.delete(pricestart,pricestop,false, DataTypeEnum.price);
             }
             case"7":{
-                return carService.delete("empty","empty",false,"all");
+                return carService.delete("empty","empty",false, DataTypeEnum.all);
             }
 
         }

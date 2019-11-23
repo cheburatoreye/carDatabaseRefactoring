@@ -1,12 +1,14 @@
 package com.company.cardatabaseproj.crud;
 import com.company.cardatabaseproj.database.Car;
 import com.company.cardatabaseproj.database.Database;
+import com.company.cardatabaseproj.enums.DataTypeEnum;
 
 import java.io.IOException;
 import java.util.Collection;
 import java.util.List;
 
 public class CrudDatabaseMethods implements CrudDatabase {
+
 
     private  static  CrudDatabase db=new CrudDatabaseMethods();
     private CrudDatabaseMethods(){}
@@ -16,6 +18,7 @@ public class CrudDatabaseMethods implements CrudDatabase {
 
     private Database database=Database.getInstance();
 
+
     @Override
     public Car create(Car car) {
         database.insert(car);
@@ -23,8 +26,8 @@ public class CrudDatabaseMethods implements CrudDatabase {
     }
 
     @Override
-    public List read(String valuefirst, String valuesecond,boolean string, String typeofdata) {
-        return database.read( valuefirst,  valuesecond, string,typeofdata);
+    public List<Car> read(String valuefirst, String valuesecond,boolean string, DataTypeEnum typeofdata) {
+        return database.read( valuefirst,  valuesecond, string, typeofdata);
     }
 
     @Override
@@ -33,7 +36,7 @@ public class CrudDatabaseMethods implements CrudDatabase {
     }
 
     @Override
-    public boolean delete(String valuefirst,String valuesecond,boolean string, String typeofdata) {
+    public boolean delete(String valuefirst,String valuesecond,boolean string, DataTypeEnum typeofdata) {
        return database.delete(valuefirst,valuesecond,string,typeofdata);
     }
 
@@ -43,7 +46,7 @@ public class CrudDatabaseMethods implements CrudDatabase {
     }
 
     @Override
-    public void databaseInit() throws IOException, ClassNotFoundException {
+    public void databaseInit() throws IOException {
         database.databaseInit();
     }
 
@@ -51,4 +54,5 @@ public class CrudDatabaseMethods implements CrudDatabase {
     public void databaseSave() throws IOException {
        database.databaseSave();
     }
+
 }

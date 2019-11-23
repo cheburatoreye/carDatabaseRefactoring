@@ -3,6 +3,8 @@ import com.company.cardatabaseproj.builder.CarConstructor;
 import com.company.cardatabaseproj.crud.CrudDatabase;
 import com.company.cardatabaseproj.crud.CrudDatabaseMethods;
 import com.company.cardatabaseproj.database.Car;
+import com.company.cardatabaseproj.database.Database;
+import com.company.cardatabaseproj.enums.DataTypeEnum;
 
 
 import java.io.IOException;
@@ -33,12 +35,12 @@ public class CarServiceMethods implements CarService {
     }
 
     @Override
-    public List read(String valuefirst, String valuesecond,boolean string,String typeofdata) {
+    public List<Car> read(String valuefirst, String valuesecond, boolean string, DataTypeEnum typeofdata) {
         return crudDatabase.read(valuefirst,valuesecond,string,typeofdata);
     }
 
     @Override
-    public boolean delete(String valuefirst, String valuesecond,boolean string, String typeofdata) {
+    public boolean delete(String valuefirst, String valuesecond,boolean string, DataTypeEnum typeofdata) {
         crudDatabase.delete(valuefirst,valuesecond,string,typeofdata);
         return true;
     }
@@ -62,7 +64,7 @@ public class CarServiceMethods implements CarService {
     @Override
     public void redactNumber(String vin) {
         String number;
-        List list =crudDatabase.read(vin,"empty",true,"any");
+        List list =crudDatabase.read(vin,"empty",true, DataTypeEnum.any);
         ListIterator listIter = list.listIterator();
 
         while(listIter.hasNext()){
@@ -80,7 +82,7 @@ public class CarServiceMethods implements CarService {
     @Override
     public void redactMark(String vin) {
         String mark;
-        List list =crudDatabase.read(vin,"empty",true,"any");
+        List list =crudDatabase.read(vin,"empty",true, DataTypeEnum.any);
         ListIterator listIter = list.listIterator();
 
         while(listIter.hasNext()){
@@ -98,7 +100,7 @@ public class CarServiceMethods implements CarService {
     @Override
     public void redactModel(String vin) {
         String model;
-        List list =crudDatabase.read(vin,"empty",true,"any");
+        List list =crudDatabase.read(vin,"empty",true, DataTypeEnum.any);
         ListIterator listIter = list.listIterator();
 
         while(listIter.hasNext()){
@@ -116,7 +118,7 @@ public class CarServiceMethods implements CarService {
     @Override
     public void redactMileage(String vin) {
         String mileage;
-        List list =crudDatabase.read(vin,"empty",true,"any");
+        List list =crudDatabase.read(vin,"empty",true, DataTypeEnum.any);
         ListIterator listIter = list.listIterator();
 
         while(listIter.hasNext()){
@@ -134,7 +136,7 @@ public class CarServiceMethods implements CarService {
     @Override
     public void redactYear(String vin) {
         String year;
-        List list =crudDatabase.read(vin,"empty",true,"any");
+        List list =crudDatabase.read(vin,"empty",true, DataTypeEnum.any);
         ListIterator listIter = list.listIterator();
 
             while(listIter.hasNext()){
@@ -152,7 +154,7 @@ public class CarServiceMethods implements CarService {
     @Override
     public void redactColor(String vin) {
         String color;
-        List list =crudDatabase.read(vin,"empty",true,"any");
+        List list =crudDatabase.read(vin,"empty",true, DataTypeEnum.any);
         ListIterator listIter = list.listIterator();
 
         while(listIter.hasNext()){
@@ -170,7 +172,7 @@ public class CarServiceMethods implements CarService {
     @Override
     public void redactBody(String vin) {
         String body;
-        List list =crudDatabase.read(vin,"empty",true,"any");
+        List list =crudDatabase.read(vin,"empty",true, DataTypeEnum.any);
         ListIterator listIter = list.listIterator();
 
         while(listIter.hasNext()){
@@ -188,7 +190,7 @@ public class CarServiceMethods implements CarService {
     @Override
     public void redactPrice(String vin) {
         String price;
-        List list =crudDatabase.read(vin,"empty",true,"any");
+        List list =crudDatabase.read(vin,"empty",true, DataTypeEnum.any);
         ListIterator listIter = list.listIterator();
 
         while(listIter.hasNext()){

@@ -1,6 +1,7 @@
 package com.company.cardatabaseproj.builder;
 
 import com.company.cardatabaseproj.database.Car;
+import com.company.cardatabaseproj.enums.DataTypeEnum;
 
 import java.time.LocalDate;
 import java.util.Scanner;
@@ -19,12 +20,12 @@ public class CarConstructor {
 
     private Scanner sc=new Scanner(System.in);
 
-    private String getFromUser(String datatype){
+    private String getFromUser(DataTypeEnum datatype){
         Pattern p;
         Matcher m;
         String value;//value used to return entered string inside builder
         switch (datatype){
-            case "vin":{
+            case vin:{
                 boolean repeat=false;
                 do {
                     if (repeat){
@@ -45,7 +46,7 @@ public class CarConstructor {
 
                 return value;
             }
-            case "number":{
+            case number:{
                 boolean repeat=false;
                 do {
                     if (repeat){
@@ -66,7 +67,7 @@ public class CarConstructor {
 
                 return value;
             }
-            case "year":{
+            case year:{
                 boolean repeat=false;
                 do {
                     if (repeat){
@@ -90,7 +91,7 @@ public class CarConstructor {
                     }
                 return value;
             }
-            case "mileage":{
+            case mileage:{
 
                 do {
                     p= Pattern.compile("^\\d+$");
@@ -105,7 +106,7 @@ public class CarConstructor {
 
                 return value;
             }
-            case "mark":{
+            case mark:{
                 do {
                     p= Pattern.compile("^\\w+$");
                     System.out.println("type mark only chars or 0 to quit");
@@ -119,10 +120,10 @@ public class CarConstructor {
 
                 return value;
             }
-            case "model":{
+            case model:{
                 do {
                     p= Pattern.compile("^\\w+$");
-                    System.out.println("type mark only chars or 0 to quit");
+                    System.out.println("type model only chars or 0 to quit");
                     m=p.matcher(value=sc.next());
                     if (value.equals("0")){
                         value="empty";
@@ -133,7 +134,7 @@ public class CarConstructor {
 
                 return value;
             }
-            case "color":{
+            case color:{
                 do {
                     p= Pattern.compile("^\\w+$");
                     System.out.println("type color only chars or 0 to quit");
@@ -147,7 +148,7 @@ public class CarConstructor {
 
                 return value;
             }
-            case "body":{
+            case body:{
                 do {
                     p= Pattern.compile("^\\w+$");
                     System.out.println("type body only chars or 0 to quit");
@@ -161,7 +162,7 @@ public class CarConstructor {
 
                 return value;
             }
-            case "price":{
+            case price:{
                 do {
                     p= Pattern.compile("^\\d+$");
                     System.out.println("type price only chars or 0 to quit");
@@ -192,19 +193,19 @@ public class CarConstructor {
         String price ;
         System.out.println("Enter car data: ");
 
-        vin=getFromUser("vin");
+        vin=getFromUser(DataTypeEnum.vin);
         if (vin.equals("empty")){
             System.out.println("empty vin, car not created. Exit...");
         }
         else {
-            number=getFromUser("number");
-            mark=getFromUser("mark");
-            model=getFromUser("model");
-            mileage=getFromUser("mileage");
-            year=getFromUser("year");
-            color=getFromUser("color");
-            body=getFromUser("body");
-            price=getFromUser("price");
+            number=getFromUser(DataTypeEnum.number);
+            mark=getFromUser(DataTypeEnum.mark);
+            model=getFromUser(DataTypeEnum.model);
+            mileage=getFromUser(DataTypeEnum.mileage);
+            year=getFromUser(DataTypeEnum.year);
+            color=getFromUser(DataTypeEnum.color);
+            body=getFromUser(DataTypeEnum.body);
+            price=getFromUser(DataTypeEnum.price);
             Car car=Car.builder()
                     .vin(vin)
                     .number(number)
